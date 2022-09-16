@@ -6,7 +6,7 @@ https://www.github.com/gui-massa
 
 Desenho do projeto:
 
-Objetos:
+Classes:
 
     Projeto
         Dados:
